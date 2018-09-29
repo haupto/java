@@ -8,6 +8,8 @@ public class CommandLineWriter {
 		System.out.println(" ======== ");
 		System.out.println(text);
 		System.out.println(" ======== ");
+		
+		// Eine Änderung
 	}	
 		
 }
